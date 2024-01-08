@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Task-viewer/static/css/main.de5b5ed1.css",
+    "main.js": "/Task-viewer/static/js/main.90537e9c.js",
+    "index.html": "/Task-viewer/index.html",
+    "main.de5b5ed1.css.map": "/Task-viewer/static/css/main.de5b5ed1.css.map",
+    "main.90537e9c.js.map": "/Task-viewer/static/js/main.90537e9c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.de5b5ed1.css",
+    "static/js/main.90537e9c.js"
+  ]
+}
